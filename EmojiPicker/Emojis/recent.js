@@ -1,0 +1,1 @@
+export const Recent = JSON.parse(localStorage.getItem("lastEmojis")) || [];
